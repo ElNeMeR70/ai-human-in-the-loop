@@ -1,0 +1,4 @@
+[project]
+name = "ai-human-in-the-loop"
+version = "0.1.0"
+description = "Pauses agent workflows requiring explicit human confirmation on sensitive external tool executions."
